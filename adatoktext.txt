@@ -1,0 +1,150 @@
+Dejounte Murray;Atlanta Hawks;21.4;6.7;5.7;#
+Jarrett Culver;Atlanta Hawks;5.0;1.0;5.0;#
+AJ Griffin;Atlanta Hawks;9.6;0.7;2.0;#
+Jalen Johnson;Atlanta Hawks;4.6;0.9;3.2;#
+Clint Capela;Atlanta Hawks;11.5;0.8;12.0;#
+Marcus Smart;Boston Celtics;11.8;7.7;3.1;#
+Derrick White;Boston Celtics;11.2;3.3;3.0;#
+Jaylen Brown;Boston Celtics;26.6;3.5;6.9;#
+Jayson Tatum;Boston Celtics;30.8;4.4;8.0;#
+Al Horford;Boston Celtics;10.6;2.8;6.3;#
+Kyrie Irving;Brooklyn Nets;24.8;4.3;4.1;#
+Seth Curry;Brooklyn Nets;9.6;2.4;2.4;#
+Royce O'Neale;Brooklyn Nets;9.8;4.7;5.3;#
+Kevin Durant;Brooklyn Nets;19.8;5.4;6.6;#
+Nicolas Claxton;Brooklyn Nets;11.9;1.3;8.6;#
+Terry Rozier;Charlotte Hornets;21.2;5.7;4.7;#
+Kelly Oubre Jr.;Charlotte Hornets;19.8;1.2;5.2;#
+Jalen McDaniels;Charlotte Hornets;10.2;2.1;4.6;#
+P.J. Washington;Charlotte Hornets;15.4;2.2;4.7;#
+Mason Plumlee;Charlotte Hornets;9.4;4.1;9.0;#
+Ayo Dosunmu;Chicago Bulls;10.6;2.9;3.5;#
+Zach LaVine;Chicago Bulls;20.9;4.3;4.4;#
+DeMar DeRozan;Chicago Bulls;25.8;4.7;4.4;#
+Patrick Williams;Chicago Bulls;9.1;0.8;3.9;#
+Nikola Vucevic;Chicago Bulls;16.0;2.9;11.2;#
+Darius Garland;Cleveland Cavaliers;22.5;8.0;2.2;#
+Donovan Mitchell;Cleveland Cavaliers;28.7;4.9;3.9;#
+Lamar Stevens;Cleveland Cavaliers;7.3;0.4;2.5;#
+Evan Mobley;Cleveland Cavaliers;15.2;2.4;9.2;#
+Kevin Love;Cleveland Cavaliers;10.6;2.5;7.4;#
+Luka Doncic;Dallas Mavericks;33.4;8.6;8.6;#
+Tim Hardaway Jr.;Dallas Mavericks;12.4;2.0;2.5;#
+Spencer Dinwiddie;Dallas Mavericks;16.3;5.0;3.1;#
+Dorian Finney-Smith;Dallas Mavericks;8.7;1.0;4.2;#
+Dwight Powell;Dallas Mavericks;5.9;0.5;3.2;#
+Jamal Murray;Denver Nuggets;17.9;4.9;3.7;#
+Bruce Brown;Denver Nuggets;11.1;4.6;4.4;#
+K. Caldwell-Pope;Denver Nuggets;11.2;2.1;3.0;#
+Aaron Gordon;Denver Nuggets;15.9;2.4;6.6;#
+Nikola Jokic;Denver Nuggets;22.7;8.9;9.8;#
+Killian Hayes;Detroit Pistons;7.9;4.6;2.7;#
+Jaden Ivey;Detroit Pistons;16.2;4.3;4.8;#
+Saddiq Bey;Detroit Pistons;14.1;1.4;4.6;#
+Bojan Bogdanovic;Detroit Pistons;20.7;2.5;3.8;#
+Marvin Bagley III;Detroit Pistons;13.4;0.7;7.0;#
+Stephen Curry;Golden State Warriors;30.8;7.1;6.7;#
+Jordan Poole;Golden State Warriors;16.7;4.5;1.9;#
+Andrew Wiggins;Golden State Warriors;19.1;2.2;5.1;#
+Draymond Green;Golden State Warriors;8.9;7.1;6.2;#
+Kevon Looney;Golden State Warriors;6.4;3.0;7.2;#
+Kevin Porter Jr.;Houston Rockets;18.8;6.0;5.7;#
+Jalen Green;Houston Rockets;21.3;3.8;4.0;#
+Kenyon Martin Jr.;Houston Rockets;10.9;1.4;5.2;#
+Jabari Smith Jr.;Houston Rockets;11.6;0.8;6.9;#
+Alperen Sengun;Houston Rockets;15.2;2.2;8.6;#
+Tyrese Haliburton;Indiana Pacers;19.1;10.9;4.7;#
+Aaron Nesmith;Indiana Pacers;7.6;1.3;3.2;#
+Buddy Hield;Indiana Pacers;16.6;2.5;4.4;#
+Jalen Smith;Indiana Pacers;11.5;1.0;7.0;#
+Myles Turner;Indiana Pacers;17.2;1.5;8.1;#
+Reggie Jackson;Los Angeles Clippers;12.2;4.4;2.6;#
+Terance Mann;Los Angeles Clippers;8.2;1.8;3.3;#
+Amir Coffey;Los Angeles Clippers;4.0;1.3;1.1;#
+Marcus Morris Sr.;Los Angeles Clippers;13.7;1.9;4.9;#
+Ivica Zubac;Los Angeles Clippers;10.8;1.3;11.6;#
+Patrick Beverley;Los Angeles Lakers;4.4;2.6;3.9;#
+Lonnie Walker IV;Los Angeles Lakers;16.5;1.8;2.3;#
+Troy Brown Jr.;Los Angeles Lakers;7.9;0.9;4.9;#
+LeBron James;Los Angeles Lakers;25.9;6.6;8.6;#
+Anthony Davis;Los Angeles Lakers;27.2;2.7;12.6;#
+Ja Morant;Memphis Grizzlies;28.2;7.3;6.4;#
+John Konchar;Memphis Grizzlies;8.4;1.5;6.5;#
+Dillon Brooks;Memphis Grizzlies;17.3;2.8;3.7;#
+Jaren Jackson Jr.;Memphis Grizzlies;19.0;0.1;7.1;#
+Steven Adams;Memphis Grizzlies;7.9;2.3;11.2;#
+Kyle Lowry;Miami Heat;14.8;6.0;4.8;#
+Tyler Herro;Miami Heat;18.9;4.1;6.4;#
+Jimmy Butler;Miami Heat;21.2;5.9;7.2;#
+Caleb Martin;Miami Heat;11.2;2.0;5.0;#
+Bam Adebayo;Miami Heat;21.0;3.3;9.1;#
+Jrue Holiday;Milwaukee Bucks;18.4;7.4;5.0;#
+Jevon Carter;Milwaukee Bucks;8.9;3.4;2.8;#
+Grayson Allen;Milwaukee Bucks;10.8;2.5;3.5;#
+Giannis Antetokounmpo;Milwaukee Bucks;31.8;5.5;11.2;#
+Brook Lopez;Milwaukee Bucks;15.3;1.1;5.9;#
+D'Angelo Russell;Minnesota Timberwolves;15.0;6.7;3.3;#
+Anthony Edwards;Minnesota Timberwolves;23.0;3.8;5.6;#
+Jaden McDaniels;Minnesota Timberwolves;11.2;1.3;3.4;#
+Wendell Moore Jr.;Minnesota Timberwolves;7.8;0.5;1.0;#
+Rudy Gobert;Minnesota Timberwolves;13.2;0.8;11.4;#
+CJ McCollum;New Orleans Pelicans;17.9;6.0;5.0;#
+Dyson Daniels;New Orleans Pelicans;5.6;2.4;4.0;#
+Trey Murphy III;New Orleans Pelicans;13.2;1.2;4.4;#
+Zion Williamson;New Orleans Pelicans;23.5;4.3;7.1;#
+Jonas Valanciunas;New Orleans Pelicans;13.4;2.0;9.3;#
+Jalen Brunson;New York Knicks;21.0;6.3;3.5;#
+Immanuel Quickley;New York Knicks;10.0;3.0;4.4;#
+RJ Barrett;New York Knicks;18.5;3.0;5.3;#
+Julius Randle;New York Knicks;21.3;3.4;8.4;#
+Mitchell Robinson;New York Knicks;7.2;0.8;7.4;#
+Shai Gilgeous-Alexander;Oklahoma City Thunder;31.1;6.0;4.7;#
+Josh Giddey;Oklahoma City Thunder;14.7;5.5;7.7;#
+Luguentz Dort;Oklahoma City Thunder;14.3;2.3;4.4;#
+Aleksej Pokusevski;Oklahoma City Thunder;9.7;1.6;5.1;#
+Jeremiah Robinson-Earl;Oklahoma City Thunder;8.7;1.0;5.0;#
+Markelle Fultz;Orlando Magic;8.3;4.7;2.7;#
+Franz Wagner;Orlando Magic;19.0;3.8;4.0;#
+Paolo Banchero;Orlando Magic;21.8;3.6;6.5;#
+Moritz Wagner;Orlando Magic;8.5;2.3;5.8;#
+Bol Bol;Orlando Magic;12.9;1.0;7.7;#
+Shake Milton;Philadelphia 76ers;11.7;3.6;3.4;#
+De'Anthony Melton;Philadelphia 76ers;11.0;3.2;4.3;#
+Tobias Harris;Philadelphia 76ers;16.4;2.8;6.4;#
+P.J. Tucker;Philadelphia 76ers;3.5;1.0;4.3;#
+Joel Embiid;Philadelphia 76ers;31.4;5.1;9.1;#
+Cameron Payne;Phoenix Suns;13.4;5.5;2.5;#
+Devin Booker;Phoenix Suns;29.5;5.9;5.2;#
+Mikal Bridges;Phoenix Suns;16.0;3.4;5.4;#
+Ish Wainright;Phoenix Suns;3.7;0.7;2.0;#
+Deandre Ayton;Phoenix Suns;16.6;2.1;9.7;#
+Damian Lillard;Portland Trail Blazers;26.3;7.0;4.3;#
+Anfernee Simons;Portland Trail Blazers;24.8;4.5;3.0;#
+Josh Hart;Portland Trail Blazers;9.5;4.3;8.4;#
+Jerami Grant;Portland Trail Blazers;22.7;2.8;4.1;#
+Jusuf Nurkic;Portland Trail Blazers;14.2;2.8;10.2;#
+De'Aaron Fox;Sacramento Kings;23.5;5.9;5.0;#
+Kevin Huerter;Sacramento Kings;15.6;3.2;3.4;#
+Harrison Barnes;Sacramento Kings;13.0;2.0;5.4;#
+Keegan Murray;Sacramento Kings;11.3;0.9;4.1;#
+Domantas Sabonis;Sacramento Kings;17.0;6.4;10.7;#
+Tre Jones;San Antonio Spurs;12.2.;7.0;3.5;#
+Devin Vassell;San Antonio Spurs;20.9;3.6;4.2;#
+Keldon Johnson;San Antonio Spurs;20.9;3.1;5.1;#
+Isaiah Roby;San Antonio Spurs;13.1;1.4;2.7;#
+Zach Collins;San Antonio Spurs;8.2;2.5;5.3;#
+Fred VanVleet;Toronto Raptors;16.8;6.6;3.4;#
+OG Anunoby;Toronto Raptors;19.3;2.3;5.8;#
+Scottie Barnes;Toronto Raptors;14.2;5.0;6.8;#
+Pascal Siakam;Toronto Raptors;24.2;7.1;8.9;#
+Christian Koloko;Toronto Raptors;4.1;0.4;3.7;#
+Collin Sexton;Utah Jazz;14.2;3.0;2.5;#
+Jordan Clarkson;Utah Jazz;19.7;4.8;3.9;#
+Jarred Vanderbilt;Utah Jazz;8.6;2.8;8.2;#
+Lauri Markkanen;Utah Jazz;22.2;2.2;8.5;#
+Kelly Olynyk;Utah Jazz;13.0;3.2;5.0;#
+Monte Morris;Washington Wizards;8.9;5.1;3.8;#
+Bradley Beal;Washington Wizards;24.1;5.7;3.9;#
+Deni Avdija;Washington Wizards;7.2;2.3;4.9;#
+Kyle Kuzma;Washington Wizards;20.3;3.5;7.7;#
+Kristaps Porzingis;Washington Wizards;21.6;2.5;8.8;#

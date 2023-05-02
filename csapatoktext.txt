@@ -1,0 +1,30 @@
+Atlanta Hawks;Nate McMillan;1;#
+Boston Celtics;Joe Mazzulla;1;#
+Brooklyn Nets;Jacque Vaughn;1;#
+Charlotte Hornets;Steve Clifford;0;#
+Chicago Bulls;Billy Donovan;0;#
+Cleveland Cavaliers;J. B. Bickerstaff;1;#
+Dallas Mavericks;Jason Kidd;1;#
+Denver Nuggets;Michael Malone;1;#
+Detroit Pistons;Dwane Casey;0;#
+Golden State Warriors;Steve Kerr;1;#
+Houston Rockets;Stephen Silas;0;#
+Indiana Pacers;Rick Carlisle;1;#
+Los Angeles Clippers;Tyronn Lue;1;#
+Los Angeles Lakers;Darvin Ham;0;#
+Memphis Grizzlies;Taylor Jenkins;1;#
+Miami Heat;Erik Spoelstra;1;#
+Milwaukee Bucks;Mike Budenholzer;1;#
+Minnesota Timberwolves;Chris Finch;0;#
+New Orleans Pelicans;Willie Green;1;#
+New York Knicks;Tom Thibodeau;0;#
+Oklahoma City Thunder;Mark Daigneault;0;#
+Orlando Magic;Jamahl Mosley;0;#
+Philadelphia 76ers;Doc Rivers;1;#
+Phoenix Suns;Monty Williams;1;#
+Portland Trail Blazers;Chauncey Billups;1;#
+Sacramento Kings;Mike Brown;1;#
+San Antonio Spurs;Gregg Popovich;0;#
+Toronto Raptors;Nick Nurse;1;#
+Utah Jazz;Will Hardy;1;#
+Washington Wizards;Wes Unseld Jr.;0;#

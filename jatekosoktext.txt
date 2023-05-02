@@ -1,0 +1,150 @@
+Dejounte Murray;26;82;196;Atlanta Hawks;#
+Jarrett Culver;23;88;198;Atlanta Hawks;#
+AJ Griffin;19;100;198;Atlanta Hawks;#
+Jalen Johnson;20;99;203;Atlanta Hawks;#
+Clint Capela;28;116;208;Atlanta Hawks;#
+Marcus Smart;28;100;191;Boston Celtics;#
+Derrick White;28;86;193;Boston Celtics;#
+Jaylen Brown;26;100;198;Boston Celtics;#
+Jayson Tatum;24;95;203;Boston Celtics;#
+Al Horford;36;109;206;Boston Celtics;#
+Kyrie Irving;30;88;188;Brooklyn Nets;#
+Seth Curry;32;84;185;Brooklyn Nets;#
+Royce O'Neale;29;103;198;Brooklyn Nets;#
+Kevin Durant;34;109;208;Brooklyn Nets;#
+Nicolas Claxton;23;98;211;Brooklyn Nets;#
+Terry Rozier;28;86;185;Charlotte Hornets;#
+Kelly Oubre Jr.;26;92;198;Charlotte Hornets;#
+Jalen McDaniels;24;93;206;Charlotte Hornets;#
+P.J. Washington;24;201;104;Charlotte Hornets;#
+Mason Plumlee;32;107;213;Charlotte Hornets;#
+Ayo Dosunmu;22;91;193;Chicago Bulls;#
+Zach LaVine;27;91;196;Chicago Bulls;#
+DeMar DeRozan;33;100;198;Chicago Bulls;#
+Patrick Williams;21;98;201;Chicago Bulls;#
+Nikola Vucevic;32;118;208;Chicago Bulls;#
+Darius Garland;22;87;185;Cleveland Cavaliers;#
+Donovan Mitchell;26;98;185;Cleveland Cavaliers;#
+Lamar Stevens;25;104;198;Cleveland Cavaliers;#
+Evan Mobley;21;98;211;Cleveland Cavaliers;#
+Kevin Love;34;114;203;Cleveland Cavaliers;#
+Luka Doncic;23;104;201;Dallas Mavericks;#
+Tim Hardaway Jr.;30;93;198;Dallas Mavericks;#
+Spencer Dinwiddie;29;98;196;Dallas Mavericks;#
+Dorian Finney-Smith;29;100;201;Dallas Mavericks;#
+Dwight Powell;31;109;208;Dallas Mavericks;#
+Jamal Murray;25;98;193;Denver Nuggets;#
+Bruce Brown;26;92;193;Denver Nuggets;#
+K. Caldwell-Pope;29;93;196;Denver Nuggets;#
+Aaron Gordon;27;100;206;Denver Nuggets;#
+Nikola Jokic;27;129;221;Denver Nuggets;#
+Killian Hayes;21;80;196;Detroit Pistons;#
+Jaden Ivey;20;88;193;Detroit Pistons;#
+Saddiq Bey;23;98;201;Detroit Pistons;#
+Bojan Bogdanovic;33;103;201;Detroit Pistons;#
+Marvin Bagley III;23;107;208;Detroit Pistons;#
+Stephen Curry;34;84;188;Golden State Warriors;#
+Jordan Poole;23;88;193;Golden State Warriors;#
+Andrew Wiggins;27;88;201;Golden State Warriors;#
+Draymond Green;32;104;198;Golden State Warriors;#
+Kevon Looney;26;101;206;Golden State Warriors;#
+Kevin Porter Jr.;22;92;193;Houston Rockets;#
+Jalen Green;20;84;193;Houston Rockets;#
+Kenyon Martin Jr.;21;98;201;Houston Rockets;#
+Jabari Smith Jr.;19;100;211;Houston Rockets;#
+Alperen Sengun;20;110;211;Houston Rockets;#
+Tyrese Haliburton;22;84;196;Indiana Pacers;#
+Aaron Nesmith;23;98;196;Indiana Pacers;#
+Buddy Hield;29;97;193;Indiana Pacers;#
+Jalen Smith;22;98;206;Indiana Pacers;#
+Myles Turner;26;113;211;Indiana Pacers;#
+Reggie Jackson;32;94;188;Los Angeles Clippers;#
+Terance Mann;26;98;196;Los Angeles Clippers;#
+Amir Coffey;25;95;201;Los Angeles Clippers;#
+Marcus Morris Sr.;33;107;206;Los Angeles Clippers;#
+Ivica Zubac;25;109;213;Los Angeles Clippers;#
+Patrick Beverley;34;82;188;Los Angeles Lakers;#
+Lonnie Walker IV;23;93;193;Los Angeles Lakers;#
+Troy Brown Jr.;23;98;198;Los Angeles Lakers;#
+LeBron James;37;113;206;Los Angeles Lakers;#
+Anthony Davis;29;115;208;Los Angeles Lakers;#
+Ja Morant;23;79;188;Memphis Grizzlies;#
+John Konchar;26;95;196;Memphis Grizzlies;#
+Dillon Brooks;26;102;198;Memphis Grizzlies;
+Jaren Jackson Jr.;23;110;208;Memphis Grizzlies;#
+Steven Adams;29;113;211;Memphis Grizzlies;#
+Kyle Lowry;36;89;183;Miami Heat;#
+Tyler Herro;22;88;196;Miami Heat;#
+Jimmy Butler;33;104;201;Miami Heat;#
+Caleb Martin;27;93;196;Miami Heat;#
+Bam Adebayo;25;116;206;Miami Heat;#
+Jrue Holiday;32;93;196;Milwaukee Bucks;#
+Jevon Carter;27;91;185;Milwaukee Bucks;#
+Grayson Allen;27;90;193;Milwaukee Bucks;#
+Giannis Antetokounmpo;27;110;211;Milwaukee Bucks;#
+Brook Lopez;34;128;216;Milwaukee Bucks;#
+D'Angelo Russell;26;88;193;Minnesota Timberwolves;#
+Anthony Edwards;21;102;193;Minnesota Timberwolves;#
+Jaden McDaniels;22;88;206;Minnesota Timberwolves;#
+Wendell Moore Jr.;21;98;196;Minnesota Timberwolves;#
+Rudy Gobert;30;111;216;Minnesota Timberwolves;#
+CJ McCollum;31;91;191;New Orleans Pelicans;#
+Dyson Daniels;19;90;201;New Orleans Pelicans;#
+Trey Murphy III;22;93;203;New Orleans Pelicans;#
+Zion Williamson;22;129;098;New Orleans Pelicans;#
+Jonas Valanciunas;30;120;213;New Orleans Pelicans;#
+Jalen Brunson;26;86;188;New York Knicks;#
+Immanuel Quickley;23;86;188;New York Knicks;#
+RJ Barrett;22;97;198;New York Knicks;#
+Julius Randle;28;113;203;New York Knicks;#
+Mitchell Robinson;24;109;213;New York Knicks;#
+Shai Gilgeous-Alexander;24;88;198;Oklahoma City Thunder;#
+Josh Giddey;20;98;203;Oklahoma City Thunder;#
+Luguentz Dort;23;100;193;Oklahoma City Thunder;#
+Aleksej Pokusevski;20,95;213;Oklahoma City Thunder;#
+Jeremiah Robinson-Earl;22;109;203;Oklahoma City Thunder;#
+Markelle Fultz;24;91;190;Orlando Magic;#
+Franz Wagner;21;100;208;Orlando Magic;#
+Paolo Banchero;20;113;208;Orlando Magic;#
+Moritz Wagner;25;111;211;Orlando Magic;#
+Bol Bol;23;100;218;Orlando Magic;#
+Shake Milton;26;93;196;Philadelphia 76ers;#
+De'Anthony Melton;24;86;188;Philadelphia 76ers;#
+Tobias Harris;30;107;201;Philadelphia 76ers;#
+P.J. Tucker;37;111;196;Philadelphia 76ers;#
+Joel Embiid;28;127;213;Philadelphia 76ers;#
+Cameron Payne;28;83;185;Phoenix Suns;#
+Devin Booker;26;93;196;Phoenix Suns;#
+Mikal Bridges;26;95;198;Phoenix Suns;#
+Ish Wainright;28;113;196;Phoenix Suns;#
+Deandre Ayton;24;113;213;Phoenix Suns;#
+Damian Lillard;32;88;188;Portland Trail Blazers;#
+Anfernee Simons;23;82;191;Portland Trail Blazers;#
+Josh Hart;27;98;193;Portland Trail Blazers;#
+Jerami Grant;28;95;203;Portland Trail Blazers;#
+Jusuf Nurkic;28;132;211;Portland Trail Blazers;#
+De'Aaron Fox;24;84;198;Sacramento Kings;#
+Kevin Huerter;24;90;201;Sacramento Kings;#
+Harrison Barnes;30;102;203;Sacramento Kings;#
+Keegan Murray;22;102;203;Sacramento Kings;#
+Domantas Sabonis;26;109;216;Sacramento Kings;#
+Tre Jones;22;84;185;San Antonio Spurs;#
+Devin Vassell;22;91;196;San Antonio Spurs;#
+Keldon Johnson;23;100;196;San Antonio Spurs;#
+Isaiah Roby;24;104;203;San Antonio Spurs;#
+Zach Collins;25;107;211;San Antonio Spurs;#
+Fred VanVleet;28;88;185;Toronto Raptors;#
+OG Anunoby;25;105;201;Toronto Raptors;#
+Scottie Barnes;21;102;203;Toronto Raptors;#
+Pascal Siakam;28;104;203;Toronto Raptors;#
+Christian Koloko;22;100;213;Toronto Raptors;#
+Collin Sexton;23;86;188;Utah Jazz;#
+Jordan Clarkson;30;88;196;Utah Jazz;#
+Jarred Vanderbilt;23;97;203;Utah Jazz;#
+Lauri Markkanen;25;109;213;Utah Jazz;#
+Kelly Olynyk;31;109;211;Utah Jazz;#
+Monte Morris;27;83;193;Washington Wizards;#
+Bradley Beal;29;94;193;Washington Wizards;#
+Deni Avdija;21;95;206;Washington Wizards;#
+Kyle Kuzma;27;100;206;Washington Wizards;#
+Kristaps Porzingis;27;109;221;Washington Wizards;#
